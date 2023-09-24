@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nandikakoranga
 - 👀 I’m interested in web and software development.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning React.js,Node.js.
 - 📫 How to reach me nandikakoranga40@gmail.com
 
 <!---
